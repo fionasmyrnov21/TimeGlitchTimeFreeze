@@ -140,6 +140,9 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
+                INFOPLIST_KEY_NSCameraUsageDescription = "TimeGlitch TimeFreeze needs the camera to capture journal frames, profile photos, and portal media.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "TimeGlitch TimeFreeze needs the microphone for portal media capture.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "TimeGlitch TimeFreeze needs photo library access to attach images in the content portal.";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
@@ -174,6 +177,9 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
+                INFOPLIST_KEY_NSCameraUsageDescription = "TimeGlitch TimeFreeze needs the camera to capture journal frames, profile photos, and portal media.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "TimeGlitch TimeFreeze needs the microphone for portal media capture.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "TimeGlitch TimeFreeze needs photo library access to attach images in the content portal.";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
